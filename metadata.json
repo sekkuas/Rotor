@@ -1,0 +1,7 @@
+{
+  "name": "Rotor 3.0.1",
+  "description": "A responsive fleet management web application for Panama Car Rental, featuring real-time inventory control, movement tracking, and role-based access control.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
